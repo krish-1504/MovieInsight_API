@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-517))694^!^o5x_jfsh0!*(y&2ctztw$%uue10ljgqpqdpgy3v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['movie-insight-api-6p29.vercel.app']
 
 
 # Application definition
