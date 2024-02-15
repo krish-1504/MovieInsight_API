@@ -2,5 +2,4 @@
 Django==4.2.8
 pandas
 requests
-pickle
 os

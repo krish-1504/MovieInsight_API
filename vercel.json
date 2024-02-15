@@ -10,5 +10,9 @@
         "src": "/(.*)",
         "dest": "movieapp/wsgi.py"
       }
-    ]
-}
+    ],
+    "env": {
+      "PYTHON_VERSION": "3.8"
+    }
+  }
+  
